@@ -1,0 +1,51 @@
+{
+  "match-stix": {
+    "title": "Match Stix Contour Skinstick — Amber",
+    "url": "https://fentybeauty.com/products/match-stix-contour-skinstick-amber",
+    "image_url": "https://cdn.shopify.com/s/files/1/0341/3458/9485/products/FB30029_FB3008_b59a5d82-ffad-4a24-9126-4db0221cf27f.jpg?v=1762268985&width=640",
+    "local": "products/match-stix.jpg",
+    "bytes": 39827
+  },
+  "icon-velvet": {
+    "title": "Fenty Icon Velvet Liquid Lipstick — RiRi",
+    "url": "https://fentybeauty.com/products/fenty-icon-velvet-liquid-lipstick-riri",
+    "image_url": "https://cdn.shopify.com/s/files/1/0341/3458/9485/products/FB_POSTHOL22_T2PRODUCT_CONCRETE_FENTY_ICON_VELVET_LIQUID_LIP_OPEN_RIRI_1200x1500_d1ba70e7-6f74-42a0-b2fd-748f5efdca43.jpg?v=1762268966&width=640",
+    "local": "products/icon-velvet.jpg",
+    "bytes": 64323
+  },
+  "diamond-bomb": {
+    "title": "Diamond Bomb All-Over Diamond Veil — How Many Carats?!",
+    "url": "https://fentybeauty.com/products/diamond-bomb-all-over-diamond-veil-how-many-carats",
+    "image_url": "https://cdn.shopify.com/s/files/1/0341/3458/9485/products/FB40013_FB8003.jpg?v=1762198501&width=640",
+    "local": "products/diamond-bomb.jpg",
+    "bytes": 94820
+  },
+  "killawatt": {
+    "title": "Killawatt Freestyle Highlighter — Lightning Dust/Fire Crystal",
+    "url": "https://fentybeauty.com/products/killawatt-freestyle-highlighter-lightning-dustfire-crystal",
+    "image_url": "https://cdn.shopify.com/s/files/1/0341/3458/9485/products/FB30002_FB3005_07f1614a-8bb3-406e-88b7-5cc0f507e91f.jpg?v=1762198598&width=640",
+    "local": "products/killawatt.jpg",
+    "bytes": 41689
+  },
+  "eaze-drop": {
+    "title": "Eaze Drop Lightweight Blurring Skin Tint — 1",
+    "url": "https://fentybeauty.com/products/eaze-drop-lightweight-blurring-skin-tint-1",
+    "image_url": "https://cdn.shopify.com/s/files/1/0341/3458/9485/products/FB30031_FB001.jpg?v=1762198650&width=640",
+    "local": "products/eaze-drop.jpg",
+    "bytes": 48746
+  },
+  "cheeks-out": {
+    "title": "Cheeks Out Freestyle Cream Blush — Rosé Latte",
+    "url": "https://fentybeauty.com/products/cheeks-out-freestyle-cream-blush-rose-latte",
+    "image_url": "https://cdn.shopify.com/s/files/1/0341/3458/9485/products/FB30022_FB9050.jpg?v=1762198239&width=640",
+    "local": "products/cheeks-out.jpg",
+    "bytes": 70582
+  },
+  "gloss-bomb": {
+    "title": "Gloss Bomb Universal Lip Luminizer — Fu$$y",
+    "url": "https://fentybeauty.com/products/gloss-bomb-universal-lip-luminizer-fuy",
+    "image_url": "https://cdn.shopify.com/s/files/1/0341/3458/9485/files/FB_HOLII18_PRODUCT_GLOSS_BOMB_FU_Y_CLOSED_FULLRES_1200X1500_72DPI.jpg?v=1762198482&width=640",
+    "local": "products/gloss-bomb.jpg",
+    "bytes": 78096
+  }
+}

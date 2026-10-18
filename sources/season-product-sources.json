@@ -1,0 +1,58 @@
+{
+  "bronzer": {
+    "title": "Sun Stalk'r Instant Warmth Bronzer — I$land Ting",
+    "url": "https://fentybeauty.com/products/sun-stalkr-instant-warmth-bronzer-iland-ting",
+    "image_url": "https://cdn.shopify.com/s/files/1/0341/3458/9485/products/FB30015_FB9013.jpg?v=1762198371&width=640",
+    "image": "products/season-bronzer.jpg",
+    "shade": "I$land Ting"
+  },
+  "liquid": {
+    "title": "Shake ’N Play Buildable Liquid Blush — Bow’peep",
+    "url": "https://fentybeauty.com/products/shake-n-play-buildable-liquid-blush-bowpeep",
+    "image_url": "https://cdn.shopify.com/s/files/1/0341/3458/9485/files/FB_SPR26_T2PRODUCT_ECOMM_SHAKE-N-PLAY_BLUSH_BOW-PEEP_1200X1500_72DPI_793ec26e-e4f9-41e5-a4e1-dadb0c2d7588.jpg?v=1774661216&width=640",
+    "image": "products/season-liquid.jpg",
+    "shade": "Bow’peep"
+  },
+  "heat": {
+    "title": "Gloss Bomb Heat Universal Lip Luminizer + Plumper — Fenty Glow Heat",
+    "url": "https://fentybeauty.com/products/gloss-bomb-heat-universal-lip-luminizer-plumper-fenty-glow-heat",
+    "image_url": "https://cdn.shopify.com/s/files/1/0341/3458/9485/files/FB_SUM26_T2PRODUCT_ECOMM_GB_HEAT_FENTY_GLOW_1200X1500_72DPI.jpg?v=1783634080&width=640",
+    "image": "products/season-heat.jpg",
+    "shade": "Fenty Glow Heat"
+  },
+  "stunna": {
+    "title": "Stunna Lip Paint Longwear Fluid Lip Color — Uncensored",
+    "url": "https://fentybeauty.com/products/stunna-lip-paint-longwear-fluid-lip-color-uncensored",
+    "image_url": "https://cdn.shopify.com/s/files/1/0341/3458/9485/products/FB50002_FB5002.jpg?v=1762198605&width=640",
+    "image": "products/season-stunna.jpg",
+    "shade": "Uncensored"
+  },
+  "glow": {
+    "title": "Gloss Bomb Universal Lip Luminizer — Fenty Glow",
+    "url": "https://fentybeauty.com/products/gloss-bomb-universal-lip-luminizer-fenty-glow",
+    "image_url": "https://cdn.shopify.com/s/files/1/0341/3458/9485/files/FB3006_PROD_GLOSS_BOMB_FENTY_GLOW_CLOSED_72_1.jpg?v=1762198594&width=640",
+    "image": "products/season-glow.jpg",
+    "shade": "Fenty Glow"
+  },
+  "chocolit": {
+    "title": "Gloss Bomb Universal Lip Luminizer — Hot Chocolit",
+    "url": "https://fentybeauty.com/products/gloss-bomb-universal-lip-luminizer-hot-chocolit",
+    "image_url": "https://cdn.shopify.com/s/files/1/0341/3458/9485/files/FB_SPR20_II_T2PRODUCT_CONCRETE_GLOSS_BOMB_UNIV_LUMINIZER_CLOSED_HOTCHOCOLIT_CLOSED_1200x1500_2ccee84f-60bc-41b9-aedb-7542c79adecf.jpg?v=1762198235&width=640",
+    "image": "products/season-chocolit.jpg",
+    "shade": "Hot Chocolit"
+  },
+  "petal": {
+    "title": "Cheeks Out Freestyle Cream Blush — Petal Poppin",
+    "url": "https://fentybeauty.com/products/cheeks-out-freestyle-cream-blush-petal-poppin",
+    "image_url": "https://cdn.shopify.com/s/files/1/0341/3458/9485/products/FB30022_FB9042.jpg?v=1762198245&width=640",
+    "image": "products/season-petal.jpg",
+    "shade": "Petal Poppin"
+  },
+  "wattab": {
+    "title": "Gloss Bomb Universal Lip Luminizer — Wattab!*%#",
+    "url": "https://fentybeauty.com/products/gloss-bomb-universal-lip-luminizer-wattab",
+    "image_url": "https://cdn.shopify.com/s/files/1/0341/3458/9485/files/FB_SPR26_T2PRODUCT_ECOMM_LE-WATTAMOMENT_GB-OG_WATTABITCH_1200x1500_72DPI.jpg?v=1769721467&width=640",
+    "image": "products/season-wattab.jpg",
+    "shade": "Wattab!*%#"
+  }
+}
